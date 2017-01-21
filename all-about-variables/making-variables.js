@@ -15,7 +15,7 @@ var i = 2;
 // hold any datatypes, unlike Java or C.
 
 var i = 2;
-var i = "tow"
+var i = "two"
 var k = function logToTen() {
     for(var i = 0; i < 10; i++){
         console.log(i)
